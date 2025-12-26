@@ -26,9 +26,10 @@ and jQuery to align with industry best practices.
 • Checkout Page - Finalizes the purchase by collecting shipping details, coupons and processing payments for items in the cart<br>
 
 # Modules
-This system consists of several modules. These are:
-**• Registration/Login: ** Where users and vendors can create and Login an account with their email and password. <br>
-• Update Profile Information: Where users and vendors can update their profile and upload their personal information (such as address, profile picture, name, shop description).<br>
+This system consists of several modules. These are: <br>
+• Registration/Login:Where users and vendors can create and Login an account with their email and password. <br>
+• Update Profile Information: Where users and vendors can update their profile and upload their personal information <br>
+(such as address, profile picture, name, shop description).<br>
 • Shopping Cart: Users can add products to a cart, view items, and proceed to checkout.<br>
 • Order Placement: Users can place orders for products and choose delivery options.<br>
 • Payment Gateway: Secure payment processing through various methods (e.g., cash on delivery, Stripe). <br>
@@ -41,37 +42,24 @@ This system consists of several modules. These are:
 • Become a Seller: Users can apply to become sellers by filling out necessary details to upgrade their accounts.<br>
 • Customer Support: Access to help and support features, such as live chat or ticketing systems.<br>
 
-Description of vendor modules:
-Product Management: Vendors can upload, edit, and manage their product listings
-(including descriptions, images, and prices).
-Order Management: Vendors can view and manage orders placed by customers.
-Customer Reviews & Feedback: Vendors can monitor customer reviews and
-feedback.
-Shop Management: Vendors can add and update their shop descriptions, branding,
-and contact details.
-Income Analytics: Vendors can view detailed reports of their earnings, including
-monthly and yearly income statistics.
-Description of admin modules:
-Page 12 of 36
-Category & Product Management: Create, update, and delete product
-categories.Define and manage product types .Upload new products, including product
-details, pricing, and inventory.Approve or reject products uploaded by sellers.
-Order Management: View customer orders and order details.Update and change
-order status (e.g., pending, shipped, delivered).Handle refunds cancellations.
-Website Management: Manage website content (banners, homepage sections,blogs
-etc.).Enable or disable certain features or sections.
-Promotions & Discounts: Create site-wide promotions or discounts.Set up flash
-sales and seasonal deals.
-User Management: Manage users (customers, sellers, and other admins).Approve or
-reject seller applications.Manage user permissions and roles.
-Transaction: View all transactions made on the platform.
-User and Seller Management: Approve or deactivate seller accounts.View and
-manage customer accounts.Monitor seller activities and product performance.
-General Settings: Configure general site settings (e.g., site name, logo, footer).Email
-configuration (SMTP setup, notification templates).Manage the ”About Us” and other
-informational pages.
-Footer Management: Create, edit, and update footer sections (contact info, social
-media links, policy pages, etc.). Reports and Analytics: Access sales and performance
-reports (daily, monthly, yearly).
+# Description of vendor modules:
+Product Management: Vendors can upload, edit, and manage their product listings (including descriptions, images, and prices). <br>
+Order Management: Vendors can view and manage orders placed by customers. <br>
+Customer Reviews & Feedback: Vendors can monitor customer reviews and feedback. <br>
+Shop Management: Vendors can add and update their shop descriptions, branding and contact details. <br>
+Income Analytics: Vendors can view detailed reports of their earnings, including monthly and yearly income statistics. <br>
+# Description of admin modules:
+Category & Product Management: Create, update, and delete product categories.Define and manage product types .Upload new products, including product
+details, pricing, and inventory.Approve or reject products uploaded by sellers. <br>
+Order Management: View customer orders and order details.Update and change order status (e.g., pending, shipped, delivered).Handle refunds cancellations. <br>
+Website Management: Manage website content (banners, homepage sections,blogs etc.).Enable or disable certain features or sections. <br>
+Promotions & Discounts: Create site-wide promotions or discounts.Set up flash sales and seasonal deals. <br>
+User Management: Manage users (customers, sellers, and other admins).Approve or reject seller applications.Manage user permissions and roles. <br>
+Transaction: View all transactions made on the platform. <br>
+User and Seller Management: Approve or deactivate seller accounts.View andmanage customer accounts.Monitor seller activities and product performance. <br>
+General Settings: Configure general site settings (e.g., site name, logo, footer).Email configuration (SMTP setup, notification templates).Manage the ”About Us” and other
+informational pages. <br>
+Footer Management: Create, edit, and update footer sections (contact info, socialmedia links, policy pages, etc).Reports and Analytics: Access sales and performance
+reports (daily, monthly, yearly). <br>
 These modules help the admin manage the platform efficiently, ensuring smooth
 operation of the ecommerce website.
